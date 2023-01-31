@@ -1,0 +1,1581 @@
+:root {
+
+    /** 乳白 */
+    --zhongguose-rubai: #f9f4dc;
+
+    /** 杏仁黄 */
+    --zhongguose-xingrenhuang: #f7e8aa;
+
+    /** 茉莉黄 */
+    --zhongguose-molihuang: #f8df72;
+
+    /** 麦秆黄 */
+    --zhongguose-maiganhuang: #f8df70;
+
+    /** 油菜花黄 */
+    --zhongguose-youcaihuahuang: #fbda41;
+
+    /** 佛手黄 */
+    --zhongguose-foshouhuang: #fed71a;
+
+    /** 篾黄 */
+    --zhongguose-miehuang: #f7de98;
+
+    /** 葵扇黄 */
+    --zhongguose-kuishanhuang: #f8d86a;
+
+    /** 柠檬黄 */
+    --zhongguose-ningmenghuang: #fcd337;
+
+    /** 金瓜黄 */
+    --zhongguose-jinguahuang: #fcd217;
+
+    /** 藤黄 */
+    --zhongguose-tenghuang: #ffd111;
+
+    /** 酪黄 */
+    --zhongguose-laohuang: #f6dead;
+
+    /** 香水玫瑰黄 */
+    --zhongguose-xiangshuimeiguihuang: #f7da94;
+
+    /** 淡密黄 */
+    --zhongguose-danmihuang: #f9d367;
+
+    /** 大豆黄 */
+    --zhongguose-dadouhuang: #fbcd31;
+
+    /** 素馨黄 */
+    --zhongguose-suxinhuang: #fccb16;
+
+    /** 向日葵黄 */
+    --zhongguose-xiangrikuihuang: #fecc11;
+
+    /** 雅梨黄 */
+    --zhongguose-yalihuang: #fbc82f;
+
+    /** 黄连黄 */
+    --zhongguose-huanglianhuang: #fcc515;
+
+    /** 金盏黄 */
+    --zhongguose-jinzhanhuang: #fcc307;
+
+    /** 蛋壳黄 */
+    --zhongguose-dankehuang: #f8c387;
+
+    /** 肉色 */
+    --zhongguose-rouse: #f7c173;
+
+    /** 鹅掌黄 */
+    --zhongguose-ezhanghuang: #fbb929;
+
+    /** 鸡蛋黄 */
+    --zhongguose-jidanhuang: #fbb612;
+
+    /** 鼬黄 */
+    --zhongguose-youhuang: #fcb70a;
+
+    /** 榴萼黄 */
+    --zhongguose-liuehuang: #f9a633;
+
+    /** 淡橘橙 */
+    --zhongguose-danjucheng: #fba414;
+
+    /** 枇杷黄 */
+    --zhongguose-pipahuang: #fca106;
+
+    /** 橙皮黄 */
+    --zhongguose-chengpihuang: #fca104;
+
+    /** 北瓜黄 */
+    --zhongguose-beiguahuang: #fc8c23;
+
+    /** 杏黄 */
+    --zhongguose-xinghuang: #f28e16;
+
+    /** 雄黄 */
+    --zhongguose-xionghuang: #ff9900;
+
+    /** 万寿菊黄 */
+    --zhongguose-wanshoujuhuang: #fb8b05;
+
+    /** 菊蕾白 */
+    --zhongguose-juleibai: #e9ddb6;
+
+    /** 秋葵黄 */
+    --zhongguose-qiukuihuang: #eed045;
+
+    /** 硫华黄 */
+    --zhongguose-liuhuahuang: #f2ce2b;
+
+    /** 柚黄 */
+    --zhongguose-youhuang: #f1ca17;
+
+    /** 芒果黄 */
+    --zhongguose-mangguohuang: #ddc871;
+
+    /** 蒿黄 */
+    --zhongguose-haohuang: #dfc243;
+
+    /** 姜黄 */
+    --zhongguose-jianghuang: #e2c027;
+
+    /** 香蕉黄 */
+    --zhongguose-xiangjiaohuang: #e4bf11;
+
+    /** 草黄 */
+    --zhongguose-caohuang: #d2b42c;
+
+    /** 新禾绿 */
+    --zhongguose-xinhelv: #d2b116;
+
+    /** 月灰 */
+    --zhongguose-yuehui: #b7ae8f;
+
+    /** 淡灰绿 */
+    --zhongguose-danhuilv: #ad9e5f;
+
+    /** 草灰绿 */
+    --zhongguose-caohuilv: #8e804b;
+
+    /** 苔绿 */
+    --zhongguose-tailv: #887322;
+
+    /** 碧螺春绿 */
+    --zhongguose-biluochunlv: #867018;
+
+    /** 燕羽灰 */
+    --zhongguose-yanyuhui: #685e48;
+
+    /** 蟹壳灰 */
+    --zhongguose-xiekehui: #695e45;
+
+    /** 潭水绿 */
+    --zhongguose-tanshuilv: #645822;
+
+    /** 橄榄绿 */
+    --zhongguose-ganlanlv: #5e5314;
+
+    /** 蚌肉白 */
+    --zhongguose-bangroubai: #f9f1db;
+
+    /** 豆汁黄 */
+    --zhongguose-douzhihuang: #f8e8c1;
+
+    /** 淡茧黄 */
+    --zhongguose-danjianhuang: #f9d770;
+
+    /** 乳鸭黄 */
+    --zhongguose-ruyahuang: #ffc90c;
+
+    /** 荔肉白 */
+    --zhongguose-liroubai: #f2e6ce;
+
+    /** 象牙黄 */
+    --zhongguose-xiangyahuang: #f0d695;
+
+    /** 炒米黄 */
+    --zhongguose-chaomihuang: #f4ce69;
+
+    /** 鹦鹉冠黄 */
+    --zhongguose-yingwuguanhuang: #f6c430;
+
+    /** 木瓜黄 */
+    --zhongguose-muguahuang: #f9c116;
+
+    /** 浅烙黄 */
+    --zhongguose-qianlaohuang: #f9bd10;
+
+    /** 莲子白 */
+    --zhongguose-lianzibai: #e5d3aa;
+
+    /** 谷黄 */
+    --zhongguose-guhuang: #e8b004;
+
+    /** 栀子黄 */
+    --zhongguose-zhizihuang: #ebb10d;
+
+    /** 芥黄 */
+    --zhongguose-jiehuang: #d9a40e;
+
+    /** 银鼠灰 */
+    --zhongguose-yinshuhui: #b5aa90;
+
+    /** 尘灰 */
+    --zhongguose-chenhui: #b6a476;
+
+    /** 枯绿 */
+    --zhongguose-kulv: #b78d12;
+
+    /** 鲛青 */
+    --zhongguose-jiaoqing: #87723e;
+
+    /** 粽叶绿 */
+    --zhongguose-zongyelv: #876818;
+
+    /** 灰绿 */
+    --zhongguose-huilv: #8a6913;
+
+    /** 鹤灰 */
+    --zhongguose-hehui: #4a4035;
+
+    /** 淡松烟 */
+    --zhongguose-dansongyan: #4d4030;
+
+    /** 暗海水绿 */
+    --zhongguose-anhaishuilv: #584717;
+
+    /** 棕榈绿 */
+    --zhongguose-zonglvlv: #5b4913;
+
+    /** 米色 */
+    --zhongguose-mise: #f9e9cd;
+
+    /** 淡肉色 */
+    --zhongguose-danrouse: #f8e0b0;
+
+    /** 麦芽糖黄 */
+    --zhongguose-maiyatanghuang: #f9d27d;
+
+    /** 琥珀黄 */
+    --zhongguose-hupohuang: #feba07;
+
+    /** 甘草黄 */
+    --zhongguose-gancaohuang: #f3bf4c;
+
+    /** 初熟杏黄 */
+    --zhongguose-chushuxinghuang: #f8bc31;
+
+    /** 浅驼色 */
+    --zhongguose-qiantuose: #e2c17c;
+
+    /** 沙石黄 */
+    --zhongguose-shashihuang: #e5b751;
+
+    /** 虎皮黄 */
+    --zhongguose-hupihuang: #eaad1a;
+
+    /** 土黄 */
+    --zhongguose-tuhuang: #d6a01d;
+
+    /** 百灵鸟灰 */
+    --zhongguose-bailingniaohui: #b4a992;
+
+    /** 山鸡黄 */
+    --zhongguose-shanjihuang: #b78b26;
+
+    /** 龟背黄 */
+    --zhongguose-guibeihuang: #826b48;
+
+    /** 苍黄 */
+    --zhongguose-canghuang: #806332;
+
+    /** 莱阳梨黄 */
+    --zhongguose-laiyanglihuang: #815f25;
+
+    /** 蜴蜊绿 */
+    --zhongguose-yililv: #835e1d;
+
+    /** 松鼠灰 */
+    --zhongguose-songshuhui: #4f4032;
+
+    /** 橄榄灰 */
+    --zhongguose-ganlanhui: #503e2a;
+
+    /** 蟹壳绿 */
+    --zhongguose-xiekelv: #513c20;
+
+    /** 古铜绿 */
+    --zhongguose-gutonglv: #533c1b;
+
+    /** 焦茶绿 */
+    --zhongguose-jiaochalv: #553b18;
+
+    /** 粉白 */
+    --zhongguose-fenbai: #fbf2e3;
+
+    /** 落英淡粉 */
+    --zhongguose-luoyingdanfen: #f9e8d0;
+
+    /** 瓜瓤粉 */
+    --zhongguose-guarangfen: #f9cb8b;
+
+    /** 蜜黄 */
+    --zhongguose-mihuang: #fbb957;
+
+    /** 金叶黄 */
+    --zhongguose-jinyehuang: #ffa60f;
+
+    /** 金莺黄 */
+    --zhongguose-jinyinghuang: #f4a83a;
+
+    /** 鹿角棕 */
+    --zhongguose-lujiaozong: #e3bd8d;
+
+    /** 凋叶棕 */
+    --zhongguose-diaoyezong: #e7a23f;
+
+    /** 玳瑁黄 */
+    --zhongguose-daimaohuang: #daa45a;
+
+    /** 软木黄 */
+    --zhongguose-ruanmuhuang: #de9e44;
+
+    /** 风帆黄 */
+    --zhongguose-fengfanhuang: #dc9123;
+
+    /** 桂皮淡棕 */
+    --zhongguose-guipidanzong: #c09351;
+
+    /** 猴毛灰 */
+    --zhongguose-houmaohui: #97846c;
+
+    /** 山鸡褐 */
+    --zhongguose-shanjihe: #986524;
+
+    /** 驼色 */
+    --zhongguose-tuose: #66462a;
+
+    /** 茶褐 */
+    --zhongguose-chahe: #5d3d21;
+
+    /** 古铜褐 */
+    --zhongguose-gutonghe: #5c3719;
+
+    /** 荷花白 */
+    --zhongguose-hehuabai: #fbecde;
+
+    /** 玫瑰粉 */
+    --zhongguose-meiguifen: #f8b37f;
+
+    /** 橘橙 */
+    --zhongguose-jucheng: #f97d1c;
+
+    /** 美人焦橙 */
+    --zhongguose-meirenjiaocheng: #fa7e23;
+
+    /** 润红 */
+    --zhongguose-runhong: #f7cdbc;
+
+    /** 淡桃红 */
+    --zhongguose-dantaohong: #f6cec1;
+
+    /** 海螺橙 */
+    --zhongguose-hailuocheng: #f0945d;
+
+    /** 桃红 */
+    --zhongguose-taohong: #f0ada0;
+
+    /** 颊红 */
+    --zhongguose-jiahong: #eeaa9c;
+
+    /** 淡罂粟红 */
+    --zhongguose-danyingsuhong: #eea08c;
+
+    /** 晨曦红 */
+    --zhongguose-chenxihong: #ea8958;
+
+    /** 蟹壳红 */
+    --zhongguose-xiekehong: #f27635;
+
+    /** 金莲花橙 */
+    --zhongguose-jinlianhuacheng: #f86b1d;
+
+    /** 草莓红 */
+    --zhongguose-caomeihong: #ef6f48;
+
+    /** 龙睛鱼红 */
+    --zhongguose-longjingyuhong: #ef632b;
+
+    /** 蜻蜓红 */
+    --zhongguose-qingtinghong: #f1441d;
+
+    /** 大红 */
+    --zhongguose-dahong: #f04b22;
+
+    /** 柿红 */
+    --zhongguose-shihong: #f2481b;
+
+    /** 榴花红 */
+    --zhongguose-liuhuahong: #f34718;
+
+    /** 银朱 */
+    --zhongguose-yinzhu: #f43e06;
+
+    /** 朱红 */
+    --zhongguose-zhuhong: #ed5126;
+
+    /** 鲑鱼红 */
+    --zhongguose-guiyuhong: #f09c5a;
+
+    /** 金黄 */
+    --zhongguose-jinhuang: #f26b1f;
+
+    /** 鹿皮褐 */
+    --zhongguose-lupihe: #d99156;
+
+    /** 醉瓜肉 */
+    --zhongguose-zuiguarou: #db8540;
+
+    /** 麂棕 */
+    --zhongguose-jizong: #de7622;
+
+    /** 淡银灰 */
+    --zhongguose-danyinhui: #c1b2a3;
+
+    /** 淡赭 */
+    --zhongguose-danzhe: #be7e4a;
+
+    /** 槟榔综 */
+    --zhongguose-binglangzong: #c1651a;
+
+    /** 银灰 */
+    --zhongguose-yinhui: #918072;
+
+    /** 海鸥灰 */
+    --zhongguose-haiouhui: #9a8878;
+
+    /** 淡咖啡 */
+    --zhongguose-dankafei: #945833;
+
+    /** 岩石棕 */
+    --zhongguose-yanshizong: #964d22;
+
+    /** 芒果棕 */
+    --zhongguose-mangguozong: #954416;
+
+    /** 石板灰 */
+    --zhongguose-shibanhui: #624941;
+
+    /** 珠母灰 */
+    --zhongguose-zhumuhui: #64483d;
+
+    /** 丁香棕 */
+    --zhongguose-dingxiangzong: #71361d;
+
+    /** 咖啡 */
+    --zhongguose-kafei: #753117;
+
+    /** 筍皮棕 */
+    --zhongguose-sunpizong: #732e12;
+
+    /** 燕颔红 */
+    --zhongguose-yanhanhong: #fc6315;
+
+    /** 玉粉红 */
+    --zhongguose-yufenhong: #e8b49a;
+
+    /** 金驼 */
+    --zhongguose-jintuo: #e46828;
+
+    /** 铁棕 */
+    --zhongguose-tiezong: #d85916;
+
+    /** 蛛网灰 */
+    --zhongguose-zhuwanghui: #b7a091;
+
+    /** 淡可可棕 */
+    --zhongguose-dankekezong: #b7511d;
+
+    /** 中红灰 */
+    --zhongguose-zhonghonghui: #8b614d;
+
+    /** 淡土黄 */
+    --zhongguose-dantuhuang: #8c4b31;
+
+    /** 淡豆沙 */
+    --zhongguose-dandousha: #873d24;
+
+    /** 椰壳棕 */
+    --zhongguose-yekezong: #883a1e;
+
+    /** 淡铁灰 */
+    --zhongguose-dantiehui: #5b423a;
+
+    /** 中灰驼 */
+    --zhongguose-zhonghuituo: #603d30;
+
+    /** 淡栗棕 */
+    --zhongguose-danlizong: #673424;
+
+    /** 可可棕 */
+    --zhongguose-kekezong: #652b1c;
+
+    /** 柞叶棕 */
+    --zhongguose-zhayezong: #692a1b;
+
+    /** 野蔷薇红 */
+    --zhongguose-yeqiangweihong: #fb9968;
+
+    /** 菠萝红 */
+    --zhongguose-boluohong: #fc7930;
+
+    /** 藕荷 */
+    --zhongguose-ouhe: #edc3ae;
+
+    /** 陶瓷红 */
+    --zhongguose-taocihong: #e16723;
+
+    /** 晓灰 */
+    --zhongguose-xiaohui: #d4c4b7;
+
+    /** 余烬红 */
+    --zhongguose-yujinhong: #cf7543;
+
+    /** 火砖红 */
+    --zhongguose-huozhuanhong: #cd6227;
+
+    /** 火泥棕 */
+    --zhongguose-huonizong: #aa6a4c;
+
+    /** 绀红 */
+    --zhongguose-ganhong: #a6522c;
+
+    /** 橡树棕 */
+    --zhongguose-xiangshuzong: #773d31;
+
+    /** 海报灰 */
+    --zhongguose-haibaohui: #483332;
+
+    /** 玫瑰灰 */
+    --zhongguose-meiguihui: #4b2e2b;
+
+    /** 火山棕 */
+    --zhongguose-huoshanzong: #482522;
+
+    /** 豆沙 */
+    --zhongguose-dousha: #481e1c;
+
+    /** 淡米粉 */
+    --zhongguose-danmifen: #fbeee2;
+
+    /** 初桃粉红 */
+    --zhongguose-chutaofenhong: #f6dcce;
+
+    /** 介壳淡粉红 */
+    --zhongguose-jieqiaodanfenhong: #f7cfba;
+
+    /** 淡藏花红 */
+    --zhongguose-dancanghuahong: #f6ad8f;
+
+    /** 瓜瓤红 */
+    --zhongguose-guaranghong: #f68c60;
+
+    /** 芙蓉红 */
+    --zhongguose-furonghong: #f9723d;
+
+    /** 莓酱红 */
+    --zhongguose-meijianghong: #fa5d19;
+
+    /** 法螺红 */
+    --zhongguose-faluohong: #ee8055;
+
+    /** 落霞红 */
+    --zhongguose-luoxiahong: #cf4813;
+
+    /** 淡玫瑰灰 */
+    --zhongguose-danmeiguihui: #b89485;
+
+    /** 蟹蝥红 */
+    --zhongguose-xiemaohong: #b14b28;
+
+    /** 火岩棕 */
+    --zhongguose-huoyanzong: #863020;
+
+    /** 赭石 */
+    --zhongguose-zheshi: #862617;
+
+    /** 暗驼棕 */
+    --zhongguose-antuozong: #592620;
+
+    /** 酱棕 */
+    --zhongguose-jiangzong: #5a1f1b;
+
+    /** 栗棕 */
+    --zhongguose-lizong: #5c1e19;
+
+    /** 洋水仙红 */
+    --zhongguose-yangshuixianhong: #f4c7ba;
+
+    /** 谷鞘红 */
+    --zhongguose-guqiaohong: #f17666;
+
+    /** 苹果红 */
+    --zhongguose-pingguohong: #f15642;
+
+    /** 铁水红 */
+    --zhongguose-tieshuihong: #f5391c;
+
+    /** 桂红 */
+    --zhongguose-guihong: #f25a47;
+
+    /** 极光红 */
+    --zhongguose-jiguanghong: #f33b1f;
+
+    /** 粉红 */
+    --zhongguose-fenhong: #f2b9b2;
+
+    /** 舌红 */
+    --zhongguose-shehong: #f19790;
+
+    /** 曲红 */
+    --zhongguose-quhong: #f05a46;
+
+    /** 红汞红 */
+    --zhongguose-honggonghong: #f23e23;
+
+    /** 淡绯 */
+    --zhongguose-danfei: #f2cac9;
+
+    /** 无花果红 */
+    --zhongguose-wuhuaguohong: #efafad;
+
+    /** 榴子红 */
+    --zhongguose-liuzihong: #f1908c;
+
+    /** 胭脂红 */
+    --zhongguose-yanzhihong: #f03f24;
+
+    /** 合欢红 */
+    --zhongguose-hehuanhong: #f0a1a8;
+
+    /** 春梅红 */
+    --zhongguose-chunmeihong: #f1939c;
+
+    /** 香叶红 */
+    --zhongguose-xiangyehong: #f07c82;
+
+    /** 珊瑚红 */
+    --zhongguose-shanhuhong: #f04a3a;
+
+    /** 萝卜红 */
+    --zhongguose-luobohong: #f13c22;
+
+    /** 淡茜红 */
+    --zhongguose-danqianhong: #e77c8e;
+
+    /** 艳红 */
+    --zhongguose-yanhong: #ed5a65;
+
+    /** 淡菽红 */
+    --zhongguose-danshuhong: #ed4845;
+
+    /** 鱼鳃红 */
+    --zhongguose-yusaihong: #ed3b2f;
+
+    /** 樱桃红 */
+    --zhongguose-yingtaohong: #ed3321;
+
+    /** 淡蕊香红 */
+    --zhongguose-danruixianghong: #ee4866;
+
+    /** 石竹红 */
+    --zhongguose-shizhuhong: #ee4863;
+
+    /** 草茉莉红 */
+    --zhongguose-caomolihong: #ef475d;
+
+    /** 茶花红 */
+    --zhongguose-chahuahong: #ee3f4d;
+
+    /** 枸枢红 */
+    --zhongguose-goushuhong: #ed3333;
+
+    /** 秋海棠红 */
+    --zhongguose-qiuhaitanghong: #ec2b24;
+
+    /** 丽春红 */
+    --zhongguose-lichunhong: #eb261a;
+
+    /** 夕阳红 */
+    --zhongguose-xiyanghong: #de2a18;
+
+    /** 鹤顶红 */
+    --zhongguose-hedinghong: #d42517;
+
+    /** 鹅血石红 */
+    --zhongguose-exueshihong: #ab372f;
+
+    /** 覆盆子红 */
+    --zhongguose-fupenzihong: #ac1f18;
+
+    /** 貂紫 */
+    --zhongguose-diaozi: #5d3131;
+
+    /** 暗玉紫 */
+    --zhongguose-anyuzi: #5c2223;
+
+    /** 栗紫 */
+    --zhongguose-lizi: #5a191b;
+
+    /** 葡萄酱紫 */
+    --zhongguose-putaojiangzi: #5a1216;
+
+    /** 牡丹粉红 */
+    --zhongguose-mudanfenhong: #eea2a4;
+
+    /** 山茶红 */
+    --zhongguose-shanchahong: #ed556a;
+
+    /** 海棠红 */
+    --zhongguose-haitanghong: #f03752;
+
+    /** 玉红 */
+    --zhongguose-yuhong: #c04851;
+
+    /** 高粱红 */
+    --zhongguose-gaolianghong: #c02c38;
+
+    /** 满江红 */
+    --zhongguose-manjianghong: #a7535a;
+
+    /** 枣红 */
+    --zhongguose-zaohong: #7c1823;
+
+    /** 葡萄紫 */
+    --zhongguose-putaozi: #4c1f24;
+
+    /** 酱紫 */
+    --zhongguose-jiangzi: #4d1018;
+
+    /** 淡曙红 */
+    --zhongguose-danshuhong: #ee2746;
+
+    /** 唐菖蒲红 */
+    --zhongguose-tangchangpuhong: #de1c31;
+
+    /** 鹅冠红 */
+    --zhongguose-eguanhong: #d11a2d;
+
+    /** 莓红 */
+    --zhongguose-meihong: #c45a65;
+
+    /** 枫叶红 */
+    --zhongguose-fengyehong: #c21f30;
+
+    /** 苋菜红 */
+    --zhongguose-xiancaihong: #a61b29;
+
+    /** 烟红 */
+    --zhongguose-yanhong: #894e54;
+
+    /** 暗紫苑红 */
+    --zhongguose-anziyuanhong: #82202b;
+
+    /** 殷红 */
+    --zhongguose-yanhong: #82111f;
+
+    /** 猪肝紫 */
+    --zhongguose-zhuganzi: #541e24;
+
+    /** 金鱼紫 */
+    --zhongguose-jinyuzi: #500a16;
+
+    /** 草珠红 */
+    --zhongguose-caozhuhong: #f8ebe6;
+
+    /** 淡绛红 */
+    --zhongguose-danjianghong: #ec7696;
+
+    /** 品红 */
+    --zhongguose-pinhong: #ef3473;
+
+    /** 凤仙花红 */
+    --zhongguose-fengxianhuahong: #ea7293;
+
+    /** 粉团花红 */
+    --zhongguose-fentuanhuahong: #ec9bad;
+
+    /** 夹竹桃红 */
+    --zhongguose-jiazhutaohong: #eb507e;
+
+    /** 榲桲红 */
+    --zhongguose-wenpohong: #ed2f6a;
+
+    /** 姜红 */
+    --zhongguose-jianghong: #eeb8c3;
+
+    /** 莲瓣红 */
+    --zhongguose-lianbanhong: #ea517f;
+
+    /** 水红 */
+    --zhongguose-shuihong: #f1c4cd;
+
+    /** 报春红 */
+    --zhongguose-baochunhong: #ec8aa4;
+
+    /** 月季红 */
+    --zhongguose-yuejihong: #ce5777;
+
+    /** 豇豆红 */
+    --zhongguose-jiangdouhong: #ed9db2;
+
+    /** 霞光红 */
+    --zhongguose-xiaguanghong: #ef82a0;
+
+    /** 松叶牡丹红 */
+    --zhongguose-songyemudanhong: #eb3c70;
+
+    /** 喜蛋红 */
+    --zhongguose-xidanhong: #ec2c64;
+
+    /** 鼠鼻红 */
+    --zhongguose-shubihong: #e3b4b8;
+
+    /** 尖晶玉红 */
+    --zhongguose-jianjingyuhong: #cc163a;
+
+    /** 山黎豆红 */
+    --zhongguose-shanlidouhong: #c27c88;
+
+    /** 锦葵红 */
+    --zhongguose-jinkuihong: #bf3553;
+
+    /** 鼠背灰 */
+    --zhongguose-shubeihui: #73575c;
+
+    /** 甘蔗紫 */
+    --zhongguose-ganzhezi: #621624;
+
+    /** 石竹紫 */
+    --zhongguose-shizhuzi: #63071c;
+
+    /** 苍蝇灰 */
+    --zhongguose-cangyinghui: #36282b;
+
+    /** 卵石紫 */
+    --zhongguose-luanshizi: #30161c;
+
+    /** 李紫 */
+    --zhongguose-lizi: #2b1216;
+
+    /** 茄皮紫 */
+    --zhongguose-qiepizi: #2d0c13;
+
+    /** 吊钟花红 */
+    --zhongguose-diaozhonghuahong: #ce5e8a;
+
+    /** 兔眼红 */
+    --zhongguose-tuyanhong: #ec4e8a;
+
+    /** 紫荆红 */
+    --zhongguose-zijinghong: #ee2c79;
+
+    /** 菜头紫 */
+    --zhongguose-caitouzi: #951c48;
+
+    /** 鹞冠紫 */
+    --zhongguose-yaoguanzi: #621d34;
+
+    /** 葡萄酒红 */
+    --zhongguose-putaojiuhong: #62102e;
+
+    /** 磨石紫 */
+    --zhongguose-moshizi: #382129;
+
+    /** 檀紫 */
+    --zhongguose-tanzi: #381924;
+
+    /** 火鹅紫 */
+    --zhongguose-huoezi: #33141e;
+
+    /** 墨紫 */
+    --zhongguose-mozi: #310f1b;
+
+    /** 晶红 */
+    --zhongguose-jinghong: #eea6b7;
+
+    /** 扁豆花红 */
+    --zhongguose-biandouhuahong: #ef498b;
+
+    /** 白芨红 */
+    --zhongguose-baijihong: #de7897;
+
+    /** 嫩菱红 */
+    --zhongguose-nenlinghong: #de3f7c;
+
+    /** 菠根红 */
+    --zhongguose-bogenhong: #d13c74;
+
+    /** 酢酱草红 */
+    --zhongguose-cujiangcaohong: #c5708b;
+
+    /** 洋葱紫 */
+    --zhongguose-yangcongzi: #a8456b;
+
+    /** 海象紫 */
+    --zhongguose-haixiangzi: #4b1e2f;
+
+    /** 绀紫 */
+    --zhongguose-ganzi: #461629;
+
+    /** 古铜紫 */
+    --zhongguose-gutongzi: #440e25;
+
+    /** 石蕊红 */
+    --zhongguose-shiruihong: #f0c9cf;
+
+    /** 芍药耕红 */
+    --zhongguose-shaoyaogenghong: #eba0b3;
+
+    /** 藏花红 */
+    --zhongguose-canghuahong: #ec2d7a;
+
+    /** 初荷红 */
+    --zhongguose-chuhehong: #e16c96;
+
+    /** 马鞭草紫 */
+    --zhongguose-mabiancaozi: #ede3e7;
+
+    /** 丁香淡紫 */
+    --zhongguose-dingxiangdanzi: #e9d7df;
+
+    /** 丹紫红 */
+    --zhongguose-danzihong: #d2568c;
+
+    /** 玫瑰红 */
+    --zhongguose-meiguihong: #d2357d;
+
+    /** 淡牵牛紫 */
+    --zhongguose-danqianniuzi: #d1c2d3;
+
+    /** 凤信紫 */
+    --zhongguose-fengxinzi: #c8adc4;
+
+    /** 萝兰紫 */
+    --zhongguose-luolanzi: #c08eaf;
+
+    /** 玫瑰紫 */
+    --zhongguose-meiguizi: #ba2f7b;
+
+    /** 藤萝紫 */
+    --zhongguose-tengluozi: #8076a3;
+
+    /** 槿紫 */
+    --zhongguose-jinzi: #806d9e;
+
+    /** 蕈紫 */
+    --zhongguose-xunzi: #815c94;
+
+    /** 桔梗紫 */
+    --zhongguose-jiegengzi: #813c85;
+
+    /** 魏紫 */
+    --zhongguose-weizi: #7e1671;
+
+    /** 芝兰紫 */
+    --zhongguose-zhilanzi: #e9ccd3;
+
+    /** 菱锰红 */
+    --zhongguose-lingmenghong: #d276a3;
+
+    /** 龙须红 */
+    --zhongguose-longxuhong: #cc5595;
+
+    /** 蓟粉红 */
+    --zhongguose-jifenhong: #e6d2d5;
+
+    /** 电气石红 */
+    --zhongguose-dianqishihong: #c35691;
+
+    /** 樱草紫 */
+    --zhongguose-yingcaozi: #c06f98;
+
+    /** 芦穗灰 */
+    --zhongguose-lusuihui: #bdaead;
+
+    /** 隐红灰 */
+    --zhongguose-yinhonghui: #b598a1;
+
+    /** 苋菜紫 */
+    --zhongguose-xiancaizi: #9b1e64;
+
+    /** 芦灰 */
+    --zhongguose-luhui: #856d72;
+
+    /** 暮云灰 */
+    --zhongguose-muyunhui: #4f383e;
+
+    /** 斑鸠灰 */
+    --zhongguose-banjiuhui: #482936;
+
+    /** 淡藤萝紫 */
+    --zhongguose-dantengluozi: #f2e7e5;
+
+    /** 淡青紫 */
+    --zhongguose-danqingzi: #e0c8d1;
+
+    /** 青蛤壳紫 */
+    --zhongguose-qinghakezi: #bc84a8;
+
+    /** 豆蔻紫 */
+    --zhongguose-doukouzi: #ad6598;
+
+    /** 扁豆紫 */
+    --zhongguose-biandouzi: #a35c8f;
+
+    /** 芥花紫 */
+    --zhongguose-jiehuazi: #983680;
+
+    /** 青莲 */
+    --zhongguose-qinglian: #8b2671;
+
+    /** 芓紫 */
+    --zhongguose-zizi: #894276;
+
+    /** 葛巾紫 */
+    --zhongguose-gejinzi: #7e2065;
+
+    /** 牵牛紫 */
+    --zhongguose-qianniuzi: #681752;
+
+    /** 紫灰 */
+    --zhongguose-zihui: #5d3f51;
+
+    /** 龙睛鱼紫 */
+    --zhongguose-longjingyuzi: #4e2a40;
+
+    /** 荸荠紫 */
+    --zhongguose-biqizi: #411c35;
+
+    /** 古鼎灰 */
+    --zhongguose-gudinghui: #36292f;
+
+    /** 乌梅紫 */
+    --zhongguose-wumeizi: #1e131d;
+
+    /** 深牵牛紫 */
+    --zhongguose-shenqianniuzi: #1c0d1a;
+
+    /** 银白 */
+    --zhongguose-yinbai: #f1f0ed;
+
+    /** 芡食白 */
+    --zhongguose-qianshibai: #e2e1e4;
+
+    /** 远山紫 */
+    --zhongguose-yuanshanzi: #ccccd6;
+
+    /** 淡蓝紫 */
+    --zhongguose-danlanzi: #a7a8bd;
+
+    /** 山梗紫 */
+    --zhongguose-shangengzi: #61649f;
+
+    /** 螺甸紫 */
+    --zhongguose-luodianzi: #74759b;
+
+    /** 玛瑙灰 */
+    --zhongguose-manaohui: #cfccc9;
+
+    /** 野菊紫 */
+    --zhongguose-yejuzi: #525288;
+
+    /** 满天星紫 */
+    --zhongguose-mantianxingzi: #2e317c;
+
+    /** 锌灰 */
+    --zhongguose-xinhui: #7a7374;
+
+    /** 野葡萄紫 */
+    --zhongguose-yeputaozi: #302f4b;
+
+    /** 剑锋紫 */
+    --zhongguose-jianfengzi: #3e3841;
+
+    /** 龙葵紫 */
+    --zhongguose-longkuizi: #322f3b;
+
+    /** 暗龙胆紫 */
+    --zhongguose-anlongdanzi: #22202e;
+
+    /** 晶石紫 */
+    --zhongguose-jingshizi: #1f2040;
+
+    /** 暗蓝紫 */
+    --zhongguose-anlanzi: #131124;
+
+    /** 景泰蓝 */
+    --zhongguose-jingtailan: #2775b6;
+
+    /** 尼罗蓝 */
+    --zhongguose-niluolan: #2474b5;
+
+    /** 远天蓝 */
+    --zhongguose-yuantianlan: #d0dfe6;
+
+    /** 星蓝 */
+    --zhongguose-xinglan: #93b5cf;
+
+    /** 羽扇豆蓝 */
+    --zhongguose-yushandoulan: #619ac3;
+
+    /** 花青 */
+    --zhongguose-huaqing: #2376b7;
+
+    /** 睛蓝 */
+    --zhongguose-jinglan: #5698c3;
+
+    /** 虹蓝 */
+    --zhongguose-honglan: #2177b8;
+
+    /** 湖水蓝 */
+    --zhongguose-hushuilan: #b0d5df;
+
+    /** 秋波蓝 */
+    --zhongguose-qiubolan: #8abcd1;
+
+    /** 涧石蓝 */
+    --zhongguose-jianshilan: #66a9c9;
+
+    /** 潮蓝 */
+    --zhongguose-chaolan: #2983bb;
+
+    /** 群青 */
+    --zhongguose-qunqing: #1772b4;
+
+    /** 霁青 */
+    --zhongguose-jiqing: #63bbd0;
+
+    /** 碧青 */
+    --zhongguose-biqing: #5cb3cc;
+
+    /** 宝石蓝 */
+    --zhongguose-baoshilan: #2486b9;
+
+    /** 天蓝 */
+    --zhongguose-tianlan: #1677b3;
+
+    /** 柏林蓝 */
+    --zhongguose-bolinlan: #126bae;
+
+    /** 海青 */
+    --zhongguose-haiqing: #22a2c3;
+
+    /** 钴蓝 */
+    --zhongguose-gulan: #1a94bc;
+
+    /** 鸢尾蓝 */
+    --zhongguose-yuanweilan: #158bb8;
+
+    /** 牵牛花蓝 */
+    --zhongguose-qianniuhualan: #1177b0;
+
+    /** 飞燕草蓝 */
+    --zhongguose-feiyancaolan: #0f59a4;
+
+    /** 品蓝 */
+    --zhongguose-pinlan: #2b73af;
+
+    /** 银鱼白 */
+    --zhongguose-yinyubai: #cdd1d3;
+
+    /** 安安蓝 */
+    --zhongguose-ananlan: #3170a7;
+
+    /** 鱼尾灰 */
+    --zhongguose-yuweihui: #5e616d;
+
+    /** 鲸鱼灰 */
+    --zhongguose-jingyuhui: #475164;
+
+    /** 海参灰 */
+    --zhongguose-haishenhui: #fffefa;
+
+    /** 沙鱼灰 */
+    --zhongguose-shayuhui: #35333c;
+
+    /** 钢蓝 */
+    --zhongguose-ganglan: #0f1423;
+
+    /** 云水蓝 */
+    --zhongguose-yunshuilan: #baccd9;
+
+    /** 晴山蓝 */
+    --zhongguose-qingshanlan: #8fb2c9;
+
+    /** 靛青 */
+    --zhongguose-dianqing: #1661ab;
+
+    /** 大理石灰 */
+    --zhongguose-dalishihui: #c4cbcf;
+
+    /** 海涛蓝 */
+    --zhongguose-haitaolan: #15559a;
+
+    /** 蝶翅蓝 */
+    --zhongguose-diechilan: #4e7ca1;
+
+    /** 海军蓝 */
+    --zhongguose-haijunlan: #346c9c;
+
+    /** 水牛灰 */
+    --zhongguose-shuiniuhui: #2f2f35;
+
+    /** 牛角灰 */
+    --zhongguose-niujiaohui: #2d2e36;
+
+    /** 燕颔蓝 */
+    --zhongguose-yanhanlan: #131824;
+
+    /** 云峰白 */
+    --zhongguose-yunfengbai: #d8e3e7;
+
+    /** 井天蓝 */
+    --zhongguose-jingtianlan: #c3d7df;
+
+    /** 云山蓝 */
+    --zhongguose-yunshanlan: #2f90b9;
+
+    /** 釉蓝 */
+    --zhongguose-youlan: #1781b5;
+
+    /** 鸥蓝 */
+    --zhongguose-oulan: #c7d2d4;
+
+    /** 搪磁蓝 */
+    --zhongguose-tangcilan: #11659a;
+
+    /** 月影白 */
+    --zhongguose-yueyingbai: #c0c4c3;
+
+    /** 星灰 */
+    --zhongguose-xinghui: #b2bbbe;
+
+    /** 淡蓝灰 */
+    --zhongguose-danlanhui: #5e7987;
+
+    /** 鷃蓝 */
+    --zhongguose-yanlan: #144a74;
+
+    /** 嫩灰 */
+    --zhongguose-nenhui: #74787a;
+
+    /** 战舰灰 */
+    --zhongguose-zhanjianhui: #495c69;
+
+    /** 瓦罐灰 */
+    --zhongguose-waguanhui: #47484c;
+
+    /** 青灰 */
+    --zhongguose-qinghui: #2b333e;
+
+    /** 鸽蓝 */
+    --zhongguose-gelan: #1c2938;
+
+    /** 钢青 */
+    --zhongguose-gangqing: #142334;
+
+    /** 暗蓝 */
+    --zhongguose-anlan: #101f30;
+
+    /** 月白 */
+    --zhongguose-yuebai: #eef7f2;
+
+    /** 海天蓝 */
+    --zhongguose-haitianlan: #c6e6e8;
+
+    /** 清水蓝 */
+    --zhongguose-qingshuilan: #93d5dc;
+
+    /** 瀑布蓝 */
+    --zhongguose-pubulan: #51c4d3;
+
+    /** 蔚蓝 */
+    --zhongguose-weilan: #29b7cb;
+
+    /** 孔雀蓝 */
+    --zhongguose-kongquelan: #0eb0c9;
+
+    /** 甸子蓝 */
+    --zhongguose-dianzilan: #10aec2;
+
+    /** 石绿 */
+    --zhongguose-shilv: #57c3c2;
+
+    /** 竹篁绿 */
+    --zhongguose-zhuhuanglv: #b9dec9;
+
+    /** 粉绿 */
+    --zhongguose-fenlv: #83cbac;
+
+    /** 美蝶绿 */
+    --zhongguose-meidielv: #12aa9c;
+
+    /** 毛绿 */
+    --zhongguose-maolv: #66c18c;
+
+    /** 蔻梢绿 */
+    --zhongguose-koushaolv: #5dbe8a;
+
+    /** 麦苗绿 */
+    --zhongguose-maimiaolv: #55bb8a;
+
+    /** 蛙绿 */
+    --zhongguose-walv: #45b787;
+
+    /** 铜绿 */
+    --zhongguose-tonglv: #2bae85;
+
+    /** 竹绿 */
+    --zhongguose-zhulv: #1ba784;
+
+    /** 蓝绿 */
+    --zhongguose-lanlv: #12a182;
+
+    /** 穹灰 */
+    --zhongguose-qionghui: #c4d7d6;
+
+    /** 翠蓝 */
+    --zhongguose-cuilan: #1e9eb3;
+
+    /** 胆矾蓝 */
+    --zhongguose-danfanlan: #0f95b0;
+
+    /** 樫鸟蓝 */
+    --zhongguose-jianniaolan: #1491a8;
+
+    /** 闪蓝 */
+    --zhongguose-shanlan: #7cabb1;
+
+    /** 冰山蓝 */
+    --zhongguose-bingshanlan: #a4aca7;
+
+    /** 虾壳青 */
+    --zhongguose-xiakeqing: #869d9d;
+
+    /** 晚波蓝 */
+    --zhongguose-wanbolan: #648e93;
+
+    /** 蜻蜓蓝 */
+    --zhongguose-qingtinglan: #3b818c;
+
+    /** 玉鈫蓝 */
+    --zhongguose-yuqinlan: #126e82;
+
+    /** 垩灰 */
+    --zhongguose-ehui: #737c7b;
+
+    /** 夏云灰 */
+    --zhongguose-xiayunhui: #617172;
+
+    /** 苍蓝 */
+    --zhongguose-canglan: #134857;
+
+    /** 黄昏灰 */
+    --zhongguose-huanghunhui: #474b4c;
+
+    /** 灰蓝 */
+    --zhongguose-huilan: #21373d;
+
+    /** 深灰蓝 */
+    --zhongguose-shenhuilan: #132c33;
+
+    /** 玉簪绿 */
+    --zhongguose-yuzanlv: #a4cab6;
+
+    /** 青矾绿 */
+    --zhongguose-qingfanlv: #2c9678;
+
+    /** 草原远绿 */
+    --zhongguose-caoyuanyuanlv: #9abeaf;
+
+    /** 梧枝绿 */
+    --zhongguose-wuzhilv: #69a794;
+
+    /** 浪花绿 */
+    --zhongguose-langhualv: #92b3a5;
+
+    /** 海王绿 */
+    --zhongguose-haiwanglv: #248067;
+
+    /** 亚丁绿 */
+    --zhongguose-yadinglv: #428675;
+
+    /** 镍灰 */
+    --zhongguose-niehui: #9fa39a;
+
+    /** 明灰 */
+    --zhongguose-minghui: #8a988e;
+
+    /** 淡绿灰 */
+    --zhongguose-danlvhui: #70887d;
+
+    /** 飞泉绿 */
+    --zhongguose-feiquanlv: #497568;
+
+    /** 狼烟灰 */
+    --zhongguose-langyanhui: #5d655f;
+
+    /** 绿灰 */
+    --zhongguose-lvhui: #314a43;
+
+    /** 苍绿 */
+    --zhongguose-canglv: #223e36;
+
+    /** 深海绿 */
+    --zhongguose-shenhailv: #1a3b32;
+
+    /** 长石灰 */
+    --zhongguose-changshihui: #363433;
+
+    /** 苷蓝绿 */
+    --zhongguose-ganlanlv: #1f2623;
+
+    /** 莽丛绿 */
+    --zhongguose-mangconglv: #141e1b;
+
+    /** 淡翠绿 */
+    --zhongguose-dancuilv: #c6dfc8;
+
+    /** 明绿 */
+    --zhongguose-minglv: #9eccab;
+
+    /** 田园绿 */
+    --zhongguose-tianyuanlv: #68b88e;
+
+    /** 翠绿 */
+    --zhongguose-cuilv: #20a162;
+
+    /** 淡绿 */
+    --zhongguose-danlv: #61ac85;
+
+    /** 葱绿 */
+    --zhongguose-conglv: #40a070;
+
+    /** 孔雀绿 */
+    --zhongguose-kongquelv: #229453;
+
+    /** 艾绿 */
+    --zhongguose-ailv: #cad3c3;
+
+    /** 蟾绿 */
+    --zhongguose-chanlv: #3c9566;
+
+    /** 宫殿绿 */
+    --zhongguose-gongdianlv: #20894d;
+
+    /** 松霜绿 */
+    --zhongguose-songshuanglv: #83a78d;
+
+    /** 蛋白石绿 */
+    --zhongguose-danbaishilv: #579572;
+
+    /** 薄荷绿 */
+    --zhongguose-bohelv: #207f4c;
+
+    /** 瓦松绿 */
+    --zhongguose-wasonglv: #6e8b74;
+
+    /** 荷叶绿 */
+    --zhongguose-heyelv: #1a6840;
+
+    /** 田螺绿 */
+    --zhongguose-tianluolv: #5e665b;
+
+    /** 白屈菜绿 */
+    --zhongguose-baiqucailv: #485b4d;
+
+    /** 河豚灰 */
+    --zhongguose-hetunhui: #393733;
+
+    /** 蒽油绿 */
+    --zhongguose-enyoulv: #373834;
+
+    /** 槲寄生绿 */
+    --zhongguose-hujishenglv: #2b312c;
+
+    /** 云杉绿 */
+    --zhongguose-yunshanlv: #15231b;
+
+    /** 嫩菊绿 */
+    --zhongguose-nenjulv: #f0f5e5;
+
+    /** 艾背绿 */
+    --zhongguose-aibeilv: #dfecd5;
+
+    /** 嘉陵水绿 */
+    --zhongguose-jialingshuilv: #add5a2;
+
+    /** 玉髓绿 */
+    --zhongguose-yusuilv: #41b349;
+
+    /** 鲜绿 */
+    --zhongguose-xianlv: #43b244;
+
+    /** 宝石绿 */
+    --zhongguose-baoshilv: #41ae3c;
+
+    /** 海沬绿 */
+    --zhongguose-haimeilv: #e2e7bf;
+
+    /** 姚黄 */
+    --zhongguose-yaohuang: #d0deaa;
+
+    /** 橄榄石绿 */
+    --zhongguose-ganlanshilv: #b2cf87;
+
+    /** 水绿 */
+    --zhongguose-shuilv: #8cc269;
+
+    /** 芦苇绿 */
+    --zhongguose-luweilv: #b7d07a;
+
+    /** 槐花黄绿 */
+    --zhongguose-huaihuahuanglv: #d2d97a;
+
+    /** 苹果绿 */
+    --zhongguose-pingguolv: #bacf65;
+
+    /** 芽绿 */
+    --zhongguose-yalv: #96c24e;
+
+    /** 蝶黄 */
+    --zhongguose-diehuang: #e2d849;
+
+    /** 橄榄黄绿 */
+    --zhongguose-ganlanhuanglv: #bec936;
+
+    /** 鹦鹉绿 */
+    --zhongguose-yingwulv: #5bae23;
+
+    /** 油绿 */
+    --zhongguose-youlv: #253d24;
+
+    /** 象牙白 */
+    --zhongguose-xiangyabai: #fffef8;
+
+    /** 汉白玉 */
+    --zhongguose-hanbaiyu: #f8f4ed;
+
+    /** 雪白 */
+    --zhongguose-xuebai: #fffef9;
+
+    /** 鱼肚白 */
+    --zhongguose-yudubai: #f7f4ed;
+
+    /** 珍珠灰 */
+    --zhongguose-zhenzhuhui: #e4dfd7;
+
+    /** 浅灰 */
+    --zhongguose-qianhui: #dad4cb;
+
+    /** 铅灰 */
+    --zhongguose-qianhui: #bbb5ac;
+
+    /** 中灰 */
+    --zhongguose-zhonghui: #bbb5ac;
+
+    /** 瓦灰 */
+    --zhongguose-wahui: #867e76;
+
+    /** 夜灰 */
+    --zhongguose-yehui: #847c74;
+
+    /** 雁灰 */
+    --zhongguose-yanhui: #80766e;
+
+    /** 深灰 */
+    --zhongguose-shenhui: #81776e;
+
+}
